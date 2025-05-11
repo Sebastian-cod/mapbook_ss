@@ -1,7 +1,6 @@
-users=[
-    {"name":"Sebastian","location":"Pisz","posts":500},
-    {"name":"Michal","location":"Krasnystaw","posts":200},
-    {"name":"Krzysztof","location":"Poznań","posts":100},
-    {"name":"Bartosz","location":"Ostroleka","posts":300},
-
+users = [
+    {"name": "Daniel", "location": "Łódź", "posts": 500},
+    {"name": "Michał", "location": "Krasnystaw", "posts": 400},
+    {"name": "Ksavier", "location": "Grudziądz", "posts": 300},
+    {"name": "Damian", "location": "Kraków", "posts": 200},
 ]
